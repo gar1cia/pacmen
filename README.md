@@ -5,4 +5,4 @@ When button "Add PacMan" is pressed a PacMan will appear.
 When button "Start Game" is pressed PacMen will begin to move at random speed and direction.
 PacMen will bounce off walls and reverse direction. 
 
-<img src="PacMan1.png">
+<img src="/images/PacMan1.png">
