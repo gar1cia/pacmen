@@ -19,7 +19,7 @@ This is a factory for making PacMen.
 //Pacmen will bounce off walls and reverse direction.
 ```
 
-## Contributing
+## Roadmap of future improvements
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
