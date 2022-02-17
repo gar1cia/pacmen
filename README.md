@@ -15,23 +15,13 @@ This is a factory for making PacMen.
 
 Open index.html.
 
-```bash
-pip install foobar
-```
-
 ## Usage
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```javascript
+//Open index.html.
+//When button "Add PacMan" is pressed a PacMan will appear.
+//When button "Start Game" is pressed PacMen will begin to move at random speed and direction.
+//Pacmen will bounce off walls and reverse direction.
 ```
 
 ## Contributing
